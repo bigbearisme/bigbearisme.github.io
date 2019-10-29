@@ -1,5 +1,4 @@
-# Kejin
+# Big Bear
 
-> 自己选的路，跪着也要走下去
-
+>C、C++ 学习小站
 ![Blog](/assets/img/blog.png)
